@@ -7,7 +7,7 @@ Full stack Software Developer
 I’m a Full Stack Developer living in Lucknow, Uttar Pradesh experienced in building responsive, accessible websites and web applications and Mobile App Development using Laravel, PHP, Dot Net, JavaScript, jQuery and React Native. I have more than 5 Years' experience in Software Development. I’m looking to expand my portfolio and collaborate on something new.
 
 * 🌍  I'm based in India, Uttar Pradesh, Lucknow.
-* 🖥️  See my portfolio at [Sanjay Kumar Prajapati](http://www.sanjayprajapati.com/)
+* 🖥️  See my portfolio at [Sanjay Kumar Prajapati](http://www.sanjayprajapati.in/)
 * ✉️  You can contact me at [sanjaykumarprajapati70@gmail.com](mailto:sanjaykumarprajapati70@gmail.com)
 * 🚀  I'm currently working on [Relief Commission Office Uttar Pradesh ( RAHAT )](http://rahat.up.nic.in)
 
